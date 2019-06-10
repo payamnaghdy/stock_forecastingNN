@@ -1,1 +1,1 @@
-# stock_forcastingNN
+# stock_forecastingNN
